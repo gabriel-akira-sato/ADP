@@ -1,0 +1,5 @@
+[16/Aug/2023 03:22:57] "INFO" "main" "Starting application..."
+[16/Aug/2023 03:22:58] "INFO" "main" "ils-api access: False"
+[16/Aug/2023 03:22:58] "DEBUG" "main" "Starting process: 'OrganisationEventProcessor-1'"
+[16/Aug/2023 03:22:58] "INFO" "ils_event_consumer" "Starting consumer..."
+[16/Aug/2023 03:22:58] "INFO" "events_processor" "OrganisationEventProcessor Running!"
